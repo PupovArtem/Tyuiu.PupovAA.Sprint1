@@ -4,10 +4,10 @@ internal class Program
     private static void Main(string[] args)
     {
         DataService ds = new DataService();
-        Console.Title = "Спринт #0 | Выполнил: Пупов А. А. | ИБКСб-25-1";
+        Console.Title = "Спринт #1 | Выполнил: Пупов А. А. | ИБКСб-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                               *");
-        Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+        Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
         Console.WriteLine("* Задание #1                                                              *");
         Console.WriteLine("* Вариант #21                                                             *");
         Console.WriteLine("* Выполнил: Пупов Артём Андреевич | ИБКСб-25-1                            *");
